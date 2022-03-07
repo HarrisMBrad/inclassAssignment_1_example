@@ -1,4 +1,4 @@
-### Inclass Assignments: Sprint Itterations  
+### Inclass Assignments: Sprint Iterations  
           16week - sprintOne_dev
           32week - sprintTwo_dev
             
